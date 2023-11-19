@@ -1,4 +1,4 @@
-# Olá meu nome é Lucas Fuyrini 👋
+# Olá meu nome é Lucas Furini 👋
 ## Bem vindo ao meu perfil do Git Hub 👨‍💻
 
 ### Um pouco sobre mim: 
